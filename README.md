@@ -1,3 +1,7 @@
+<h1 align="center">Hi <img src="https://github.com/yawar1101/yawar1101/blob/master/wave-hand.gif" alt="yawar1101" width="40" height="40" />, I'm Mohd Yawar Shahid</h1>
+<h3 align="center">A passionate developer from India</h3>
+
+
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🎓 &nbsp; MCA from C-DAC, Noida
