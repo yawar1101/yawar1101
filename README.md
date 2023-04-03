@@ -35,9 +35,9 @@
 
 ## 📈 Stats
 
-![Yawar's github stats](https://github-readme-stats.vercel.app/api?username=Rishu3010&hide=["issues"]&show_icons=true&line_height=30)
+![Yawar's github stats](https://github-readme-stats.vercel.app/api?username=yawar1101&hide=["issues"]&show_icons=true&line_height=30)
 
-![Yawar's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu3010&theme=buefy&layout=compact&langs_count=10)
+![Yawar's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yawar1101&theme=buefy&layout=compact&langs_count=10)
 
 ----
 Credit: [Mohd Yawar Shahid](https://github.com/yawar1101)
